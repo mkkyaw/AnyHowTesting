@@ -9,6 +9,9 @@ namespace Common.Workflow
 {
     public class Workflow :IWorkflow
     {
-
+        public void test()
+        { 
+        
+        }
     }
 }

@@ -7,8 +7,8 @@
     <ProjectGuid>{B8137200-570E-4228-98A0-4AE5849F352F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Common</RootNamespace>
-    <AssemblyName>Common</AssemblyName>
+    <RootNamespace>Anyhow.Common</RootNamespace>
+    <AssemblyName>Anyhow.Common</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

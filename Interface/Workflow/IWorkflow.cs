@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Interface.Workflow
+namespace Anyhow.Interface.Workflow
 {
     public interface IWorkflow
     {

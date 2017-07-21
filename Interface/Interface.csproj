@@ -7,8 +7,8 @@
     <ProjectGuid>{B42D02A2-EF3E-4E7D-B514-436A89210C20}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Interface</RootNamespace>
-    <AssemblyName>Interface</AssemblyName>
+    <RootNamespace>Anyhow.Interface</RootNamespace>
+    <AssemblyName>Anyhow.Interface</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -77,8 +77,5 @@ namespace Anyhow.Awesome
 
         public string Name => Name1;
 
-        public string Name1 => name;
-
-        public string Name2 => name;
     }
 }

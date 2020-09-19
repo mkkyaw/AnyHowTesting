@@ -77,5 +77,7 @@ namespace Anyhow.Awesome
 
         public string Name => Name1;
 
+        public int MyProperty { get; set; }
+
     }
 }

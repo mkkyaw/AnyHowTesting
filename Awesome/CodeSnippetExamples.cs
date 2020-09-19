@@ -13,7 +13,7 @@ namespace Anyhow.Awesome
         {
             try
             {
-
+                var aa = "";
             }
             catch (Exception)
             {
